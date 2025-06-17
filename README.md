@@ -48,20 +48,10 @@ These agents aren't just reactive — they feel, remember, and grow. And I'm exc
 
 ---
 
-### 📊 GitHub Stats
-
-<div>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=0xZeusDev&show_icons=true&theme=tokyonight&count_private=true" width="420px">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xZeusDev&layout=compact&theme=tokyonight" width="350px">
-</div>
-
-
-
-
 ---
 
 ### 🔭 Current Focus:
-- 🎮 **Building  decentralized Rust agentic AI toolkit
+- 🎮 Building  decentralized Rust agentic AI toolkit
 - 💬 Dynamic emotional modeling & goal-based agent systems
 - 📦 Crate systems for autonomous game logic
 - 🛠️ Lightweight multi-LLM orchestration
