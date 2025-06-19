@@ -68,7 +68,7 @@ These agents aren't just reactive — they feel, remember, and grow. And I'm exc
 
 ### 🌎 Find me:
 <div>
-    <a href="https://x.com/0xZeusDev">
+    <a href="https://x.com/xanvoin">
         <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
     </a>
     <a href="propaiinol@gmail.com">
