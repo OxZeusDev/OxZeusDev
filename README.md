@@ -82,3 +82,6 @@ These agents aren't just reactive — they feel, remember, and grow. And I'm exc
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OxZeusDev&show_icons=true&theme=tokyonight&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OxZeusDev&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=OxZeusDev&theme=tokyonight&hide_border=false)
+
